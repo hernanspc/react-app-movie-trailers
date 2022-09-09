@@ -7,3 +7,6 @@
 <img src="./src/assets/search.png" width="800">
 
 <img src="./src/assets/actor.png" width="800">
+
+<img src="./src/assets/trailer.png" width="800">
+
